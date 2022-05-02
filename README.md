@@ -1,2 +1,3 @@
-# Cursos_dio
-Repositorio destinado a guardar os aprendizados na Dio
+# Cursos Dio
+Repositorio destinado a guardar os aprendizados na Dio.
+Référentiel destiné à stocker les leçons apprises à Dio.
